@@ -36,10 +36,10 @@ body{
     border: 4px solid #02d08f;
 }
 
-/* .cartao .minhas-informacoes img{
+ .cartao .minhas-informacoes img{
     width: 96px;
     height: 96px;
-} */
+} 
 
 .cartao .minhas-informacoes .nome{
     font-size: 26px ;
